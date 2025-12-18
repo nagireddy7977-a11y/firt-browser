@@ -1,0 +1,28 @@
+
+body{
+    background-image: url("./please-2697951_1280.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.wrapper{
+    height: 40%;
+    width: 85%;
+    background-color:rgb(250,235,215,0);
+    visibility:visible;
+}
+#id1{
+    height: 20%;
+    padding-top:5px;
+}
+#id2,#id3{
+    height: 10%;
+    padding-top:5px;
+}
+#id4{
+    margin-top: 15px;
+    text-align: center;
+    height: 20%;
+   
+}

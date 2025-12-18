@@ -1,0 +1,31 @@
+p{
+    background-color: rgb(9, 206, 52);
+    color: green;
+}
+h2{
+    color: rgb(216, 213, 7);
+    background-color: rgb(221, 102, 102);
+}
+.bg_color{
+    background-color: aquamarine;
+    color: blue;
+}
+#sid{
+    background-color: rgb(214, 145, 17);
+    color: beige;
+}
+h3,h5,.h4_heading{
+    color: rgb(250, 8, 8);
+    background-color: rgb(245, 220, 230);
+}
+.div_cls{
+    background-color: chocolate;
+    padding: 2m;
+    border-radius: 8px;
+}
+div h3{
+    background-color: chocolate;
+}
+div h4{
+    background-color: chocolate;
+}
